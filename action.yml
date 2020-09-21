@@ -1,4 +1,4 @@
-name: Build an RPM
+name: CentOS 7 - Build an RPM
 description: Build an RPM on CentOS 7
 author: Ian Allison <iana@pims.math.ca>
 
