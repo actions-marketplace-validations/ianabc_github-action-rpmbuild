@@ -1,0 +1,11 @@
+name: Build an RPM
+description: Build an RPM on CentOS 7
+author: Ian Allison <iana@pims.math.ca>
+
+runs:
+  using: docker
+  image: 'docker://pimsubc/centos7-rpmbuild:latest'
+
+branding:
+  icon: box
+  color: green
